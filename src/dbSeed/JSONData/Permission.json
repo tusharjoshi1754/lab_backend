@@ -1,0 +1,449 @@
+[
+	{
+		"path": "permissions/create",
+		"displayName": "Permission Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "permissions/get",
+		"displayName": "Permission Lust",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "permissions/update/:id",
+		"displayName": "Permission update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "permissions/delete/:id",
+		"displayName": "Permission Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "app/restore/:id",
+		"displayName": "Restore App",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+
+	{
+		"path": "website_header/delete/:id",
+		"displayName": "Permission Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "footer/delete/:id",
+		"displayName": "Footer Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "terms-condition/delete/:id",
+		"displayName": "Terms & condition  Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "privacy-policy/delete/:id",
+		"displayName": "privacy-policy  Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/create",
+		"displayName": "Role Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/get",
+		"displayName": "Role List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/update/:id",
+		"displayName": "Role update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/delete/:id",
+		"displayName": "Role Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_header/create",
+		"displayName": "Header Create || update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_header/get",
+		"displayName": "Header Get",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_features/create",
+		"displayName": "Website Features Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_features/update/:id",
+		"displayName": "Website Features update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_features/delete/:id",
+		"displayName": "Website Features delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_features/get",
+		"displayName": "Website Features List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_pricing/create",
+		"displayName": "Website Pricing Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_pricing/update/:id",
+		"displayName": "Website Pricing update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_pricing/delete/:id",
+		"displayName": "Website Pricing delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_pricing/get",
+		"displayName": "Website Pricing List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_testimonials/create",
+		"displayName": "Website Testimonials Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_testimonials/update/:id",
+		"displayName": "Website Testimonials update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_testimonials/delete/:id",
+		"displayName": "Website Testimonials delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_testimonials/get",
+		"displayName": "Website Testimonials List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_faqs/create",
+		"displayName": "Website FAQ Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_faqs/update/:id",
+		"displayName": "Website FAQ update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_faqs/delete/:id",
+		"displayName": "Website FAQ delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_faqs/get",
+		"displayName": "Website FAQ List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_about/create",
+		"displayName": "Website About-us Content Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_about/update/:id",
+		"displayName": "Website About-us Content update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_about/delete/:id",
+		"displayName": "Website About-us Content delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "website_about/get",
+		"displayName": "Website About-us Content List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "call_back/create",
+		"displayName": "Website Callback Content Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "call_back/update/:id",
+		"displayName": "Website Callback Content update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "call_back/delete/:id",
+		"displayName": "Website Callback Content delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "call_back/get",
+		"displayName": "Website Callback Content List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "footer/create",
+		"displayName": "Website Footer Content Create || Update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+
+	{
+		"path": "footer/get",
+		"displayName": "Website footer Content List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/create",
+		"displayName": "Admin User Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/get",
+		"displayName": "Admin User List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/update/:id",
+		"displayName": "Admin User update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/delete/:id",
+		"displayName": "Admin User Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/changePassword",
+		"displayName": "Admin User Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/status",
+		"displayName": "Admin User Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "emailLogs/get",
+		"displayName": "Email Logs Get",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "emailLogs/delete/:id",
+		"displayName": "Email Logs Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "terms-condition/create",
+		"displayName": "Terms and Condition Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "terms-condition/get",
+		"displayName": "Terms and Condition GET",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "privacy-policy/create",
+		"displayName": "Privacy-Policy Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "privacy-policy/get",
+		"displayName": "Privacy-Policy GET",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "support-ticket/create",
+		"displayName": "Create Support Ticket",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "support-ticket/get",
+		"displayName": "Create Support Ticket",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "support-ticket/update/:id",
+		"displayName": "Create Support Ticket",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "support-ticket/delete/:id",
+		"displayName": "Create Support Ticket",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "notification-type/create",
+		"displayName": "Create Notification Type",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "notification-type/get",
+		"displayName": "Get Notification Type",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "notification-type/update/:id",
+		"displayName": "Update Notification Type",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "notification-type/delete/:id",
+		"displayName": "Delete Notification Type",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "notification/get",
+		"displayName": "Get Notification List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "notification/status",
+		"displayName": "Update Notification Status=> Read",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "app/create",
+		"displayName": "Create App",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "app/get",
+		"displayName": "Get App list",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "app/update/:id",
+		"displayName": "Update App",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "app/delete/:id",
+		"displayName": "Delete App",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "app/status/:id",
+		"displayName": "update App status",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "services/create",
+		"displayName": "Create Salone-services",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "services/get",
+		"displayName": "Get Salone-services list",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "services/update/:id",
+		"displayName": "Update Salone-services",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "services/delete/:id",
+		"displayName": "Delete Salone-services",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "services/status/:id",
+		"displayName": "update Salone-services status",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "services/restore/:id",
+		"displayName": "Restore Salone-services",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "sub-services/create",
+		"displayName": "Create Salone-services",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "sub-services/get",
+		"displayName": "Get Salone-subService list",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "sub-services/update/:id",
+		"displayName": "Update Salone-subServices",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "sub-services/delete/:id",
+		"displayName": "Delete Salone-subServices",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "sub-services/status/:id",
+		"displayName": "update Salone-subService status",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "sub-services/restore/:id",
+		"displayName": "Restore Salone-subServices",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "product-admin/create",
+		"displayName": "create Admin Product",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "product-admin/get",
+		"displayName": "Get product-admin list",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "product-admin/update/:id",
+		"displayName": "Update product-admin",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "product-admin/delete/:id",
+		"displayName": "Delete product-admin",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "product-admin/status/:id",
+		"displayName": "update product-admin status",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "product-admin/restore/:id",
+		"displayName": "Restore Admin product-admin",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "sallone-owner/add",
+		"displayName": "Add sallone owner",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "sallone-owner/update/:id",
+		"displayName": "update sallone owner",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "sallone-owner/get",
+		"displayName": "get sallone owner",
+		"createdBy": "610bde138803212f22d11e1c"
+	}
+]

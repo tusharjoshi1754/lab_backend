@@ -1,0 +1,34 @@
+[
+    {
+        "createdBy": "6107cc835e94d0bc7dd9f1c2",
+        "datatype": "number"
+    },
+    {
+        "createdBy": "6107cc835e94d0bc7dd9f1c2",
+        "datatype": "string"
+    },
+    {
+        "createdBy": "6107cc835e94d0bc7dd9f1c2",
+        "datatype": "array"
+    },
+    {
+        "createdBy": "6107cc835e94d0bc7dd9f1c2",
+        "datatype": "date"
+    },
+    {
+        "createdBy": "6107cc835e94d0bc7dd9f1c2",
+        "datatype": "boolen"
+    },
+    {
+        "createdBy": "6107cc835e94d0bc7dd9f1c2",
+        "datatype": "time"
+    },
+    {
+        "createdBy": "6107cc835e94d0bc7dd9f1c2",
+        "datatype": "object"
+    },
+    {
+        "createdBy": "6107cc835e94d0bc7dd9f1c2",
+        "datatype": "objectID"
+    }
+]
